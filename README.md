@@ -1,1 +1,1 @@
-This is the description of my repository!
+This is the description of my repo
